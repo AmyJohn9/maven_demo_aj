@@ -5,4 +5,4 @@ import org.springframework.web.bind.annotation.RestController;
 public class DemoController {
     @GetMapping("/")
     public String home() {
-        return "Hello World - It's me Amy John!";}}
+        return "It's me Amy John!";}}
